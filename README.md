@@ -1,1 +1,1 @@
-# kodland_M9-L2
+print("Hello world");
